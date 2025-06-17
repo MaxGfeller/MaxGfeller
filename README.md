@@ -25,5 +25,5 @@ I'm an AI engineer and fullstack web developer with a passion for building intel
 
 ## 📫 Get in Touch
 
-- [LinkedIn]([https://www.linkedin.com/in/maxgfeller](https://www.linkedin.com/in/max-gfeller-038b1847/))
+- [LinkedIn]([https://www.linkedin.com/in/maxgfeller](https://www.linkedin.com/in/max-gfeller-038b1847/)
 - [𝕏](https://twitter.com/mgfeller)
