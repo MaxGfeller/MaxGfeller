@@ -16,12 +16,12 @@ I'm an AI engineer and fullstack web developer with a passion for building intel
   - **Backend:** Node.js, Python, REST APIs, GraphQL
   - Building modern, scalable, and performant web applications
 
-## 🚀 Notable Projects
+## 🚀 What I'm currently working on
 
-- **[Storique](https://storique.ai)**
-  - Platform for advanced storytelling powered by AI image and text generation.
 - **[Sutro](https://withsutro.com)**
   - AI-driven productivity tools for teams, integrating LLM agents and workflow automation.
+- **[Storique](https://storique.ai)**
+  - Platform for advanced storytelling powered by AI image and text generation.
 
 ## 📫 Get in Touch
 
