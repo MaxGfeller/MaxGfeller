@@ -1,29 +1,18 @@
 Grüezi, I'm Max!👋
 
-I'm an AI engineer and fullstack web developer with a passion for building intelligent products and scalable web applications.
+I'm an AI engineer and full-stack web developer with a passion for building AI-enhanced products and scalable web applications.
 
-## 🧠 Areas of Expertise
+## What I'm currently working on
 
-- **AI Engineering**
-  - Fine-tuning custom diffusion models
-  - Building complex image generation pipelines
-  - Creating agentic products powered by LLMs
-  - Designing and deploying autonomous agents
+- **[Sutro](https://withsutro.com)**: production-grade backends for vibe coding platforms
+- **Building agentic applications with CrewAI**: book that I'm writing with Manning
+- **[Storique](https://storique.ai)**: AI-generated storybooks
+- **[OpenHarness](https://www.github.com/MaxGfeller/open-harness)**: code-first, composable alternative to Claude Agent SDK
 
-- **Fullstack Web Development**
-  - **Languages:** TypeScript, Python
-  - **Frontend:** Vue, Nuxt, React, Remix, Next.js
-  - **Backend:** Node.js, Python, REST APIs, GraphQL
-  - Building modern, scalable, and performant web applications
-
-## 🚀 What I'm currently working on
-
-- **[Sutro](https://withsutro.com)**
-  - AI-driven productivity tools for teams, integrating LLM agents and workflow automation.
-- **[Storique](https://storique.ai)**
-  - Platform for advanced storytelling powered by AI image and text generation.
-
-## 📫 Get in Touch
+## Contact me
 
 - [LinkedIn](https://www.linkedin.com/in/max-gfeller-038b1847/)
 - [𝕏](https://twitter.com/mgfeller)
+- [Email](mailto:mail@maxgfeller.com)
+
+[www.maxgfeller.com](https://www.maxgfeller.com)
