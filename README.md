@@ -2,7 +2,8 @@ Grüezi, I'm Max!👋
 
 I'm an AI engineer and full-stack web developer with a passion for building AI-enhanced products and scalable web applications.
 
-🚨🚨🚨 The book about building agentic applications with CrewAI just launched on Manning's MEAP, and is 50% off until May 26: https://hubs.la/Q04fZ3l-0
+> [!IMPORTANT]
+> 🚨 The book about building agentic applications with CrewAI just launched on Manning's MEAP, and is 50% off until May 26: https://hubs.la/Q04fZ3l-0
 
 ## What I'm currently working on
 
