@@ -3,7 +3,7 @@ Grüezi, I'm Max!👋
 I'm an AI engineer and full-stack web developer with a passion for building AI-enhanced products and scalable web applications.
 
 > [!IMPORTANT]
-> 🚨 The book about building agentic applications with CrewAI just launched on Manning's MEAP, and is 50% off until May 26: https://hubs.la/Q04fZ3l-0
+> 🚨 I'm currently writing a book about building agentic applications with CrewAI and it's available on Manning's MEAP: [Link to the book[(https://hubs.la/Q04fZ3l-0)
 
 ## What I'm currently working on
 
@@ -19,3 +19,5 @@ I'm an AI engineer and full-stack web developer with a passion for building AI-e
 - [Email](mailto:mail@maxgfeller.com)
 
 [www.maxgfeller.com](https://www.maxgfeller.com)
+
+<a href="https://tokenmaxx.dev/u/MaxGfeller" rel="dofollow"><img src="https://api.tokenmaxx.dev/api/users/MaxGfeller/badge.svg?window=7d&amp;metric=tokens" alt="Tokenmaxx 7-day tokens badge" /></a>
