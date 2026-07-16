@@ -11,6 +11,7 @@ I'm an AI engineer and full-stack web developer with a passion for building AI-e
 - **[Building agentic applications with CrewAI](https://hubs.la/Q04fZ3l-0)**: book that I'm writing with Manning
 - **[Storique](https://storique.ai)**: AI-generated storybooks
 - **[OpenHarness](https://www.github.com/MaxGfeller/open-harness)**: code-first, composable alternative to Claude Agent SDK
+- **[Eremite](https://www.github.com/MaxGfeller/eremite)**: an offline-first data layer for web apps
 
 ## Contact me
 
