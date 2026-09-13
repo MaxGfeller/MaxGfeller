@@ -21,5 +21,3 @@ I'm an AI engineer and full-stack web developer with a passion for building AI-e
 - [Email](mailto:mail@maxgfeller.com)
 
 [www.maxgfeller.com](https://www.maxgfeller.com)
-
-<a href="https://tokenmaxx.dev/u/MaxGfeller" rel="dofollow"><img src="https://api.tokenmaxx.dev/api/users/MaxGfeller/badge.svg?window=7d&amp;metric=tokens" alt="Tokenmaxx 7-day tokens badge" /></a>
