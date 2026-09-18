@@ -1,14 +1,10 @@
 Grüezi, I'm Max!👋
 
-I'm an AI engineer and full-stack web developer with a passion for building AI-enhanced products and scalable web applications.
-
-> [!IMPORTANT]
-> 🚨 I'm currently writing a book about building agentic applications with CrewAI and it's available on Manning's MEAP: [Link to the book](https://hubs.la/Q04fZ3l-0)
+I'm an AI engineer and technical evangelist with a passion for building AI-enhanced products and scalable web applications.
 
 ## What I'm currently working on
 
-- **[Sutro](https://withsutro.com)**: production-grade backends for vibe coding platforms
-- **[Building agentic applications with CrewAI](https://hubs.la/Q04fZ3l-0)**: book that I'm writing with Manning
+- **[Lovable](https://www.lovable.dev)**: building the last piece of software
 - **[Storique](https://storique.ai)**: AI-generated storybooks
 - **[OpenHarness](https://www.github.com/MaxGfeller/open-harness)**: code-first, composable alternative to Claude Agent SDK
 - **[Eremite](https://www.github.com/MaxGfeller/eremite)**: an offline-first data layer for web apps
